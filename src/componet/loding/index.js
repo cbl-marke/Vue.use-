@@ -6,4 +6,4 @@ const loding = {
     }
 }
 
-export default loding
+export default loding    
