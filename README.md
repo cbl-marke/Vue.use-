@@ -1,7 +1,7 @@
 # use
 
 > A Vue.js project
-1234456
+
 ## Build Setup
 
 ``` bash
